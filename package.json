@@ -1,5 +1,5 @@
 {
-  "name": "api-zhirrr",
+  "name": "api-aguz",
   "version": "1.1.0",
   "description": "My Rest Api Projectttttt",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "rest",
     "api"
   ],
-  "author": "Zhirrr",
+  "author": "aguz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mankaguz/Zhirrr-Api/issues"
