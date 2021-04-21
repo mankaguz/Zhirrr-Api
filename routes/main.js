@@ -12,7 +12,7 @@ router.get('/index.php', (req, res) => {
 })
 
 router.get('/api/about', (req, res) => {
-    res.sendFile(__path + '/views/about.php')
+    res.sendFile(__path + '/views/about.html')
 })
 
 router.get('/api/news', (req, res) => {
