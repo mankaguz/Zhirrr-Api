@@ -14,6 +14,9 @@ router.get('/index.php', (req, res) => {
 router.get('/api/about', (req, res) => {
     res.sendFile(__path + '/views/about.html')
 })
+router.get('/api/index1', (req, res) => {
+    res.sendFile(__path + '/views/index1.html')
+})
 
 router.get('/api/news', (req, res) => {
     res.redirect('https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/Berita.json')
