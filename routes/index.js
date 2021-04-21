@@ -8,7 +8,7 @@ var zahirr = db.get("zahirr");
 	console.log('')
 }
 
-var creatorList = ['@zahirrr','@zhirrrgans','@zhirr_ajalah','@zahiranjay', '@aguz2011sss','@zhirrganteng','@zahirrgantengg'];
+var creatorList = ['AGUZ','KING AGUZ','AGUZ2011'];
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
 
 
@@ -40,7 +40,7 @@ loghandler = {
         creator: `${creator}`,
         code: 406,
         message: 'masukan parameter apikey',
-        getApikey: 'gak punya apikey? chat gw aja yaaa di wa.me/6283898698875 , key nya gratis kok gan, jadi santuyy ajaa'
+        Apikey: 'aguz2011'
     },
     notkey: {
         status: false,
@@ -112,7 +112,7 @@ loghandler = {
         status: false,
         creator: `${creator}`,
         code: 406,
-        message: 'apikey invalid, gak punya apikey? chat gw aja yaaa di wa.me/6283898698875 , key nya gratis kok gan, jadi santuyy ajaa'
+        Apikey: 'aguz2011' 
     },
     invalidlink: {
         status: false,
