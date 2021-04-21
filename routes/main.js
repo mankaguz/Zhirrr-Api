@@ -7,7 +7,7 @@ router.get('/', (req, res) => {
     res.sendFile(__path + '/views/home.html')
 })
 
-router.get('/api', (req, res) => {
+router.get('/index.php', (req, res) => {
     res.sendFile(__path + '/views/index.html')
 })
 
@@ -24,10 +24,10 @@ router.get('/config', (req, res) => {
         status: true,
         result: {
             prefix : '/',
-            namabot: 'ZhirrrBot',
-            namaowner: 'Zhirrr',
-            instagram: 'zhirr_ajalah',
-            youtube : 'Gak Punya'
+            namabot: 'Bot-Devil',
+            namaowner: 'Aguz',
+            instagram: 'Aguz',
+            youtube : 'KING AGUZ'
         }
     }
     res.json(config)
