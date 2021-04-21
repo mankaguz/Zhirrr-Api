@@ -11,11 +11,11 @@ router.get('/index.php', (req, res) => {
     res.sendFile(__path + '/views/index.html')
 })
 
-router.get('/index/about.php', (req, res) => {
+router.get('/api/about', (req, res) => {
     res.sendFile(__path + '/views/about.php')
 })
 
-router.get('/index/news', (req, res) => {
+router.get('/api/news', (req, res) => {
     res.redirect('https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/Berita.json')
 })
 
