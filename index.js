@@ -15,7 +15,7 @@ app.use(secure)
 app.use(express.static("public"))
 
 app.use('/', mainrouter)
-app.use('/index', apirouter)
+app.use('/index.php', apirouter)
 
 app.listen(PORT, () => {
     console.log(color("Server running on port " + PORT,'green'))
