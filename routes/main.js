@@ -21,10 +21,10 @@ router.get('/game2', (req, res) => {
     res.sendFile(__path + '/views/game2/index.html')
 })
 router.get('/3D-CSS-Solar-System-master', (req, res) => {
-    res.sendFile(__path + '/views/3D-CSS-Solar-System-master/index.html')
+    res.redirect('https://codepen.io/juliangarnier/full/idhuG')
 })
 router.get('/3D-Hartwig-chess', (req, res) => {
-    res.sendFile(__path + '/views/3D-Hartwig-chess/index.html')
+    res.redirect('https://codepen.io/juliangarnier/full/BsIih')
 })
 router.get('/index.php/news', (req, res) => {
     res.redirect('https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/Berita.json')
