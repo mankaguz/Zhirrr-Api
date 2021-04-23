@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
   <meta content="RINKA" name="description"> 
   <meta content="RINKA" name="keywords"> 
-  <meta property="og:image" content="https://ibb.co/wybYYz7/IMG-20210205-WA0000" "="">
+  <meta property="og:image" content="https://i.ibb.co/DMxQQWQ/IMG-20210205-WA0000-jpg.jpg" "="">
      <link href="https://fonts.googleapis.com/css?family=Iceland" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Rancho" rel="stylesheet" type="text/css">
@@ -19,7 +19,7 @@
          <meta content='CSRF Online' name='keywords'/>
          <meta content='CSRF Online' name='Abstract'/>
          <script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js" type="text/javascript"></script>
-          <link rel="icon" type="image/png" href="https://i.ibb.co/DMxQQWQ/IMG-20210205-WA0000-jpg.jpg">
+          <link rel="icon" type="image/png" href="https://ibb.co/wybYYz7/IMG-20210205-WA0000">
              
   <style>body {		background: linear-gradient(to right bottom, #B721FF, #2AF598, #fec051, #FEE140, #FA709A );	background-size: cover;	background-repeat: repeat;}
 body:before{	content:'';	position: center;	top: 0;	bottom: 0;	width: 100%;	z-index: -5;	background: linear-gradient(to bottom, rgba(255,255,255,0.7), #21D4FD 10%); display:block;}
@@ -54,7 +54,7 @@ color: white;}
      <header>
       <font size="7pz" face="Rancho"> 
        <div class="content" data-text="FUCKED">
-       Wagashi Wibu:v
+       WATASHI WIBU:V
        </div></font>
      </header>
      <br>
@@ -64,7 +64,7 @@ color: white;}
      <br>
      <marquee behavior="scroll" direction="left" scrollamount="100" scrolldelay="2" width="100%">
           <font color="AQUA" face="monospace" size="4px">_________________________________________________________________________________________</font>
-         </marquee><br><img src="https://i.ibb.co/DMxQQWQ/IMG-20210205-WA0000-jpg.jpg"><br><marquee behavior="scroll" direction="left" scrollamount="100" scrolldelay="2" width="100%">
+         </marquee><br><img src="https://ibb.co/wybYYz7/IMG-20210205-WA0000"><br><marquee behavior="scroll" direction="left" scrollamount="100" scrolldelay="2" width="100%">
           <font color="AQUA" face="monospace" size="4px">_________________________________________________________________________________________</font>
          </marquee>
      <br>
@@ -73,7 +73,7 @@ color: white;}
                                <span style="font-family: monospace;"></head>
                                <center> 
                                <div class="error">
-                                  <img src="https://ibb.co/wybYYz7/IMG-20210205-WA0000" height="250px" width="250px">Feat</font><img src="https://i.ibb.co/hCPjQ48/me.jpg" width="250px" height="250px"><br><progress></progress>
+                                  <img src="https://ibb.co/wybYYz7/IMG-20210205-WA0000" height="250px" width="250px">Feat</font><img src="https://i.ibb.co/DMxQQWQ/IMG-20210205-WA0000-jpg.jpg" width="250px" height="250px"><br><progress></progress>
                                      <br>
 									 <audio autoplay="autoplay" controls="controls" src="https://e.top4top.io/m_15650pw650.mp3" type="audio/mpeg"></audio>
 									 <br>
