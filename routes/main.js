@@ -37,7 +37,7 @@ router.get('/config', (req, res) => {
             prefix : '.',
             namabot: 'Rinka-Bot',
             namaowner: 'Badriyutamam',
-            instagram: 'lolichab364',
+            instagram: 'lolichan364',
             youtube : 'Loli Chan'
         }
     }
