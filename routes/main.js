@@ -14,17 +14,17 @@ router.get('/index.php', (req, res) => {
 router.get('/index/about.php', (req, res) => {
     res.sendFile(__path + '/views/about.html')
 })
-router.get('/game1', (req, res) => {
+router.get('/game1/index.php', (req, res) => {
     res.sendFile(__path + '/views/game1/index.html')
 })
-router.get('/game2', (req, res) => {
+router.get('/game2/index.php', (req, res) => {
     res.sendFile(__path + '/views/game2/index.html')
 })
-router.get('/3D-CSS-Solar-System-master', (req, res) => {
-    res.redirect('https://codepen.io/juliangarnier/full/idhuG')
+router.get('/3D-Galaxy/index.php', (req, res) => {
+    res.sendFile(__path + '/views/3D-Galaxy/index.html')
 })
-router.get('/3D-Hartwig-chess', (req, res) => {
-    res.redirect('https://codepen.io/juliangarnier/full/BsIih')
+router.get('/3D-Hartwig-chess/index.php', (req, res) => {
+    res.sendFile(__path + '/views/3D-Hartwig-chess/index.html')
 })
 router.get('/index.php/news', (req, res) => {
     res.redirect('https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/Berita.json')
