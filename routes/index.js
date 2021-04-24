@@ -108,12 +108,13 @@ loghandler = {
         code: 406,
         message: 'theme tidak tersedia silahkan masukkan texmaker/list atau baca documentasi'
      },
-    invalidKey: {
-        status: false,
-        creator: `${creator}`,
-        code: 406,
-        Apikey: 'aguz2011' 
-    },
+    invalidKey: router.use(function (req, res) {
+
+    res.status(404)
+    .set("Content-Type", "text/html")
+    .sendFile(__path + '/views/404.html');
+});
+,
     invalidlink: {
         status: false,
         creator: `${creator}`,
@@ -179,35 +180,19 @@ router.get('/find', async (req, res, next) => {
     }
 })
 
-router.get('/cekapikey', async (req, res, next) => {
-	var apikeyInput = req.query.apikey
-	if(!apikeyInput) return res.json(loghandler.notparam)
-	a = await cekApiKey(apikeyInput)
-	if (a) {
-	json = JSON.stringify({
-		status: true,
-		creator: creator,
-		result: {
-            status:a.status,
-			id: a._id,
-			apikey: a.apikey,
-			more_info: {
-				email: a.email,
-				nomor_hp: a.nomor_hp,
-				name: a.name,
-				age: a.age,
-				country: a.country,
-				exp:a.exp,
-			},
-		},
-		message: `jangan lupa follow ${creator}`
-	})
-} else {
-	json = JSON.stringify({
-		status: false
-	})
-}
-res.send(JSON.parse(json))
+router.get('/cekapikey', async(req, res, next) => {
+  const apikey = req.query.apikey;
+  if(!apikey) return res.json(loghandler.notparam)
+  if(listkey.includes(apikey)) {
+    res.json({
+      status: 'active',
+      creator: `${creator}`,
+      apikey: `${apikey}`,
+      message: 'APIKEY ACTIVE'
+    })
+  } else {
+    res.json(loghandler.invalidKey)
+  }
 })
 
 router.get('/addapikey', (req, res, next) => {
@@ -2804,6 +2789,12 @@ router.get('/maker/special/epep', async (req, res, next) => {
          	res.json(loghandler.error)
 })
 })
+router.use(function (req, res) {
+
+    res.status(404)
+    .set("Content-Type", "text/html")
+    .sendFile(__path + '/views/404.html');
+});
 
 
 module.exports = router
