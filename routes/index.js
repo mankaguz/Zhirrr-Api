@@ -10,7 +10,7 @@ var zahirr = db.get("zahirr");
 
 var creatorList = ['AGUZ','KING AGUZ','AGUZ2011'];
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
-
+var kontol = res.sendFile(__path + '/views/game1/index.html')
 
 var ytdl = require('ytdl-core');
 var ytpl = require('ytpl');
@@ -109,7 +109,9 @@ loghandler = {
         message: 'theme tidak tersedia silahkan masukkan texmaker/list atau baca documentasi'
      },
     invalidKey: {
-        res.sendFile(__path + '/views/404.html')
+        
+        `${kontol}`
+        
     },
     invalidlink: {
         status: false,
