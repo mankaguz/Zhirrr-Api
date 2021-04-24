@@ -108,12 +108,6 @@ loghandler = {
         code: 406,
         message: 'theme tidak tersedia silahkan masukkan texmaker/list atau baca documentasi'
      },
-    invalidKey: {
-        status: false,
-        creator: `${creator}`,
-        code: 406,
-        Apikey: 'aguz2011' 
-    },
     invalidlink: {
         status: false,
         creator: `${creator}`,
