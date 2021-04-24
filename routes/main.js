@@ -26,6 +26,9 @@ router.get('/3D-Galaxy/index.php', (req, res) => {
 router.get('/3D-Hartwig-chess/index.php', (req, res) => {
     res.sendFile(__path + '/views/3D-Hartwig-chess/index.html')
 })
+router.get('/index.php/yutub/video?url=MASUKIN_URL&apikey=MASUKIN_APIKEY', (req, res) => {
+    res.sendFile(__path + '/views/404.html')
+})
 router.get('/index.php/news', (req, res) => {
     res.redirect('https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/Berita.json')
 })
