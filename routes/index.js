@@ -108,6 +108,9 @@ loghandler = {
         code: 406,
         message: 'theme tidak tersedia silahkan masukkan texmaker/list atau baca documentasi'
      },
+    invalidKey: {
+        res.sendFile(__path + '/views/404.html')
+    },
     invalidlink: {
         status: false,
         creator: `${creator}`,
